@@ -7,3 +7,6 @@ https://os.mbed.com/platforms/ST-Discovery-F746NG/
 
 TCP Demo:
 * MBED-OS 6.16.0
+
+Event Queue Demo:
+* MBED-OS 6.16.0
